@@ -1,0 +1,32 @@
+.header{
+color: khaki;
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+font-size: 100px;
+font-weight: bold;
+text-align: center;
+}
+body{
+  font-family: Helvetica;
+}
+.subhead{
+  color: white;
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+}
+.secondpart {
+  color: blue;
+  font-weight: bold;
+}
+.subhead2{
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: lightcoral;
+}
+.subhead3{
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: skyblue;
+}
